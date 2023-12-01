@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'poppins', sans-serif;
+}
+
+/*navbar style*/
+.navbar .bg-dark{
+    background-color: #131313;
+}
+
+.navbar .navbar-brand{
+    font-weight: 700;
+}
+
+.navbar .nav-link{
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+}
+
+/*Hero Style*/
+.hero .card-title{
+    color: #131313;
+    margin-top: 150px;
+}
+.hero .lead{
+    color: #131313;
+}
+
+/*menu style*/
+.menu{
+    background-image: url(y-so-serious.png);
+}
+.menu .section-title{
+    font-weight: 700;
+    color: #fff;
+}
+.menu .section-paragraf{
+    font-weight: 500;
+    color: #fff;
+}
+.menu .card{
+    background-color: #ae230b;
+    color: #fff;
+}
+.menu .card img{
+    border: 2px solid #fff;
+}
+.menu .card .card-title{
+    margin-top: 20px;
+    font-weight: 500;
+}
+.menu .card .btn{
+    font-weight: 700;
+}
+
+#diamondmurah {
+    background-color: #878787;
+    color:white;
+}
+/* Testimoni Styles */
+.testimoni {
+    background-image: url('assets/testi.webp');
+    background-size: cover;
+    height: 500px;
+}
+
+.testimoni img{
+    margin-top: 50px;
+    width: 130px;
+}
+
+.testimoni .blockquote {
+    font-weight: 500;
+}
+
+.testimoni .blockquote-footer {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #131313;
+}
+
+
+
+
+
+
+
+
+
